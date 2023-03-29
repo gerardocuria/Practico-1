@@ -3,3 +3,4 @@ Esta es la segunda linea de texto del segundo archivo
 Esta es la tercera linea de texto del segundo archivo
 Esta es la cuarta linea de texto del segundo archivo
 Esta es la quinta linea de texto del segundo archivo
+Esta es la sexta linea de texto del segundo archivo
